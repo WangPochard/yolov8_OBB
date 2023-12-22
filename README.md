@@ -2,9 +2,9 @@
 ---
 
 ### Yolo Enviroment setting
-torch
+torch  
     conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia  
-YOLO
+YOLO  
     pip install ultralytics --no-deps  
 
 ---
